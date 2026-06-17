@@ -1,6 +1,6 @@
 # Challenge technique AvaHost
 
-> ⏱ **Temps maximum :** 3 heures
+> ⏱ **Temps maximum :** 3 heures<br>
 > 🎯 **Objectif :** évaluer ta capacité à construire rapidement un vrai flux produit
 
 ---
